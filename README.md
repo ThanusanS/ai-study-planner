@@ -1,4 +1,4 @@
-# Study Planner for Students
+# AI-Powered Study Planner for Students
 
 <p align="center">
   <img src="banner2.png" width="100%" />
