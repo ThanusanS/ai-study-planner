@@ -94,7 +94,6 @@ A modern, production-ready study planner web application built with React, Tailw
    ```
 
 3. **Set up Appwrite**
-   - Follow the [Appwrite Setup Guide](./APPWRITE_SETUP.md)
    - Create project and database
    - Create all required collections
    - Note your Project ID and Database ID
@@ -162,7 +161,6 @@ study-planner/
 6. **PomodoroSessions** - Focus session history
 7. **QuizHistory** - Saved AI quizzes for retake, edit, and delete
 
-See [Appwrite Setup Guide](./APPWRITE_SETUP.md) for detailed schema.
 
 ## Key Features Implementation
 
@@ -226,7 +224,6 @@ See [Appwrite Setup Guide](./APPWRITE_SETUP.md) for detailed schema.
 ### Backend (Appwrite)
 
 - **Appwrite Cloud**: Already deployed, just configure
-- **Self-hosted**: Follow [Appwrite installation guide](https://appwrite.io/docs/installation)
 
 ## Environment Variables
 
@@ -294,8 +291,6 @@ Users must grant notification permission.
    - Verify database and collection IDs
    - Check collection permissions
    - Ensure indexes are created
-
-See [Appwrite Setup Guide](./APPWRITE_SETUP.md) for more troubleshooting.
 
 ## Future Enhancements
 
