@@ -1,5 +1,9 @@
 # Study Planner for Students
 
+<p align="center">
+  <img src="banner2.png" width="100%" />
+</p>
+
 A modern, production-ready study planner web application built with React, Tailwind CSS, and Appwrite backend. Designed to handle 100,000+ monthly users with a clean, intuitive UI/UX.
 
 ## Features
